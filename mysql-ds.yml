@@ -6,7 +6,7 @@ metadata:
   name: mysql
 spec:
   selector:
-    matchLabels:
+    matchLabels: 
       app: mysql
   strategy:
     type: Recreate
