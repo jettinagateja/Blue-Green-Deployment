@@ -5,7 +5,7 @@ data:
   alerts: |
     {}
   allow-snippet-annotations: "false"
-  prometheus.yml: |
+  prometheus.yml: | 
     global:
       evaluation_interval: 1m
       scrape_interval: 1m
