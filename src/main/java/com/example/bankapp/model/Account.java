@@ -1,4 +1,4 @@
-package com.example.bankapp.model;
+package com.example.bankapp.model; 
 
 import jakarta.persistence.*;
 import org.springframework.security.core.GrantedAuthority;
