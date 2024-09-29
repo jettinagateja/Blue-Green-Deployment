@@ -1,7 +1,7 @@
 package com.example.bankapp.controller;
 
 import com.example.bankapp.model.Account;
-import com.example.bankapp.service.AccountService;
+import com.example.bankapp.service.AccountService; 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Controller;
