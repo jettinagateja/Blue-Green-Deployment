@@ -2,7 +2,7 @@
 
 This solution facilitates zero-downtime deployments by seamlessly switching traffic between Blue and Green environments, ensuring high reliability and uninterrupted updates in production.
 
-Features:
+Features:<br>
  ✔️ Zero Downtime Deployments<br>
  ✔️Risk Mitigation<br>
  ✔️Safe and Controlled Rollbacks<br>
